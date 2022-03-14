@@ -1,0 +1,146 @@
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\SkolniKurzy.exe.config
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\SkolniKurzy.exe
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\SkolniKurzy.pdb
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\obj\Debug\SkolniKurzy.csproj.AssemblyReference.cache
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\obj\Debug\SkolniKurzy.Form1.resources
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\obj\Debug\SkolniKurzy.Properties.Resources.resources
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\obj\Debug\SkolniKurzy.csproj.GenerateResource.cache
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\obj\Debug\SkolniKurzy.csproj.CoreCompileInputs.cache
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\obj\Debug\SkolniKurzy.exe
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\obj\Debug\SkolniKurzy.pdb
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Azure.Core.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Azure.Identity.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.Identity.Client.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Buffers.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Memory.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Numerics.Vectors.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Security.AccessControl.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Security.Permissions.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Security.Principal.Windows.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Text.Encodings.Web.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Text.Json.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.ValueTuple.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Azure.Core.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Azure.Identity.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.Identity.Client.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Buffers.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Memory.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Numerics.Vectors.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Security.AccessControl.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Security.Permissions.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Security.Principal.Windows.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Text.Encodings.Web.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Text.Json.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.ValueTuple.xml
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Nebeský C3b - C#\SkolniKurzy\SkolniKurzy\obj\Debug\SkolniKurzy.csproj.CopyComplete
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\SkolniKurzy.exe.config
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\SkolniKurzy.exe
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\SkolniKurzy.pdb
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Azure.Core.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Azure.Identity.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.Identity.Client.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Buffers.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Memory.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Numerics.Vectors.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Security.AccessControl.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Security.Permissions.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Security.Principal.Windows.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Text.Encodings.Web.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Text.Json.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.ValueTuple.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Azure.Core.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Azure.Identity.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.Identity.Client.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Buffers.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Memory.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Numerics.Vectors.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Security.AccessControl.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Security.Permissions.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Security.Principal.Windows.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Text.Encodings.Web.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Text.Json.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\System.ValueTuple.xml
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\C#\SkolniKurzy\SkolniKurzy\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\C#\SkolniKurzy\SkolniKurzy\obj\Debug\SkolniKurzy.csproj.AssemblyReference.cache
+D:\C#\SkolniKurzy\SkolniKurzy\obj\Debug\SkolniKurzy.Form1.resources
+D:\C#\SkolniKurzy\SkolniKurzy\obj\Debug\SkolniKurzy.Properties.Resources.resources
+D:\C#\SkolniKurzy\SkolniKurzy\obj\Debug\SkolniKurzy.csproj.GenerateResource.cache
+D:\C#\SkolniKurzy\SkolniKurzy\obj\Debug\SkolniKurzy.csproj.CoreCompileInputs.cache
+D:\C#\SkolniKurzy\SkolniKurzy\obj\Debug\SkolniKurzy.csproj.CopyComplete
+D:\C#\SkolniKurzy\SkolniKurzy\obj\Debug\SkolniKurzy.exe
+D:\C#\SkolniKurzy\SkolniKurzy\obj\Debug\SkolniKurzy.pdb
